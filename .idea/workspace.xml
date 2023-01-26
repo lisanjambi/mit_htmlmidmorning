@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e299f85-9ea0-4a11-9ee1-86e3fad57216" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KApWauMsOMwQtsu9rGxZyADRlf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/lisa&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e299f85-9ea0-4a11-9ee1-86e3fad57216" name="Changes" comment="" />
+      <created>1673427274481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673427274481</updated>
+      <workItem from="1673427280515" duration="160000" />
+      <workItem from="1673427544567" duration="232000" />
+      <workItem from="1673501781755" duration="17000" />
+      <workItem from="1673501813899" duration="19000" />
+      <workItem from="1673501852632" duration="34000" />
+      <workItem from="1673510621171" duration="7886000" />
+      <workItem from="1673518516182" duration="4000" />
+      <workItem from="1673518622389" duration="194000" />
+      <workItem from="1673596797999" duration="2116000" />
+      <workItem from="1673599933657" duration="1480000" />
+      <workItem from="1673601536643" duration="1474000" />
+      <workItem from="1673603169944" duration="286000" />
+      <workItem from="1673603577577" duration="1294000" />
+      <workItem from="1673604876273" duration="439000" />
+      <workItem from="1673855784863" duration="137000" />
+      <workItem from="1673856254007" duration="5195000" />
+      <workItem from="1673863860192" duration="2312000" />
+      <workItem from="1673942301334" duration="8343000" />
+      <workItem from="1673951552925" duration="693000" />
+      <workItem from="1674029659562" duration="7391000" />
+      <workItem from="1674105139170" duration="10000" />
+      <workItem from="1674115682694" duration="9148000" />
+      <workItem from="1674201537921" duration="652000" />
+      <workItem from="1674460672992" duration="7837000" />
+      <workItem from="1674547457112" duration="5177000" />
+      <workItem from="1674552641911" duration="3891000" />
+      <workItem from="1674622795279" duration="8000" />
+      <workItem from="1674634923924" duration="1855000" />
+      <workItem from="1674645672019" duration="21000" />
+      <workItem from="1674722296924" duration="982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

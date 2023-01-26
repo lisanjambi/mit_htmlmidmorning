@@ -1,0 +1,51 @@
+h1{
+  font-size:xx-large ;
+  font-family:FreeMono ;
+  text-align: center;
+
+}
+h2{
+  font-size: xx-large;
+  font-family: "DejaVu Serif";
+  text-align: center;
+}
+h3{
+  font-size: xx-large;
+  font-family: "DejaVu Serif";
+  text-align: center;
+}
+h4{
+  font-family: "DejaVu Serif";
+  font-size: xx-large;
+  text-align: center;
+}
+h5{
+  font-family: "DejaVu Serif";
+  font-size: xx-large;
+  text-align: center;
+}
+h6{
+  font-size: xx-large;
+  font-family: "DejaVu Serif";
+  text-align: center;
+}
+body{
+  background-image: url("trt.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+
+}
+th,td{
+  border: 4px dashed red;
+  font-family: Dialog;
+  padding: 5px ;
+}
+tr nthchild (even){
+  background-color:lightcoral;
+
+}
